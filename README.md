@@ -12,7 +12,7 @@ With this package you can use persian date filter in nova.
 Install package via composer:
 
 ```bash
-composer require dpsoft/dpsoft/nova-persiandate-filter
+composer require dpsoft/nova-persian-date-filter
 ```
 
 The package will automatically register itself.
